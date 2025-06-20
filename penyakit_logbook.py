@@ -1,0 +1,1 @@
+def isi_logbook_penyakit(username, password, id_stase, tanggal): pass

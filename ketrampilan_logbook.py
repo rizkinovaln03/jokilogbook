@@ -1,0 +1,1 @@
+def isi_logbook_ketrampilan(username, password, id_stase, tanggal): pass
